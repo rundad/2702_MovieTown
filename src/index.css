@@ -352,7 +352,8 @@ p{
 .detail-subtitle{
   font-size: 24px;
   font-weight: bold;
-  padding-bottom: 5px;
+  padding-bottom: 10px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 .detail-subtitle > span{
@@ -794,7 +795,7 @@ p{
   border: 1px solid #3498db;
   width: fit-content;
   position: absolute;
-  top: 740px;
+  top: 750px;
   right: 330px;
   
 }
