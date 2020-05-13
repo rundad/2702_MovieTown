@@ -51,7 +51,7 @@ class Starting extends React.Component {
                             <div>
                                 <p className="info-subtitle">Google Custom Search</p>
                                 <p>Searches on google and returns the results that matches to the search query(movie)</p>
-                                <p>Retrieves: websites and images that related to the movie</p>
+                                <p>Retrieves: websites(e.g wikipedia of the movie) and images that related to the movie</p>
                             </div>
                         </div>
                         <div className="info-2">
